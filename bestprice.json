@@ -1,0 +1,73 @@
+[
+    {
+      "img": "https://example.com/image1.jpg",
+      "title": "Product A",
+      "original_price": 50.00,
+      "discount_price": 39.99,
+      "category": "Electronics"
+    },
+    {
+      "img": "https://example.com/image2.jpg",
+      "title": "Product B",
+      "original_price": 30.00,
+      "discount_price": 24.99,
+      "category": "Clothing"
+    },
+    {
+      "img": "https://example.com/image3.jpg",
+      "title": "Product C",
+      "original_price": 70.00,
+      "discount_price": 59.99,
+      "category": "Home & Garden"
+    },
+    {
+      "img": "https://example.com/image4.jpg",
+      "title": "Product D",
+      "original_price": 90.00,
+      "discount_price": 74.99,
+      "category": "Electronics"
+    },
+    {
+      "img": "https://example.com/image5.jpg",
+      "title": "Product E",
+      "original_price": 120.00,
+      "discount_price": 99.99,
+      "category": "Electronics"
+    },
+    {
+      "img": "https://example.com/image6.jpg",
+      "title": "Product F",
+      "original_price": 40.00,
+      "discount_price": 29.99,
+      "category": "Clothing"
+    },
+    {
+      "img": "https://example.com/image7.jpg",
+      "title": "Product G",
+      "original_price": 60.00,
+      "discount_price": 49.99,
+      "category": "Home & Garden"
+    },
+    {
+      "img": "https://example.com/image8.jpg",
+      "title": "Product H",
+      "original_price": 80.00,
+      "discount_price": 64.99,
+      "category": "Electronics"
+    },
+    {
+      "img": "https://example.com/image9.jpg",
+      "title": "Product I",
+      "original_price": 55.00,
+      "discount_price": 44.99,
+      "category": "Clothing"
+    },
+    {
+      "img": "https://example.com/image10.jpg",
+      "title": "Product J",
+      "original_price": 65.00,
+      "discount_price": 54.99,
+      "category": "Home & Garden"
+    }
+  ]
+  
