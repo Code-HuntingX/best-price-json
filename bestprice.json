@@ -1,69 +1,69 @@
 [
   {
-    "img": "https://example.com/image1.jpg",
+    "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product A",
     "original_price": 50,
     "discount_price": 39,
     "category": "Electronics"
   },
   {
-    "img": "https://example.com/image2.jpg",
+    "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product B",
     "original_price": 30,
     "discount_price": 24,
     "category": "Clothing"
   },
   {
-    "img": "https://example.com/image3.jpg",
+    "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product C",
     "original_price": 70,
     "discount_price": 59,
     "category": "Home & Garden"
   },
   {
-    "img": "https://example.com/image4.jpg",
+    "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product D",
     "original_price": 90,
     "discount_price": 74,
     "category": "Electronics"
   },
   {
-    "img": "https://example.com/image5.jpg",
+    "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product E",
     "original_price": 120,
     "discount_price": 99,
     "category": "Electronics"
   },
   {
-    "img": "https://example.com/image6.jpg",
+    "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product F",
     "original_price": 40,
     "discount_price": 29,
     "category": "Clothing"
   },
   {
-    "img": "https://example.com/image7.jpg",
+    "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product G",
     "original_price": 60,
     "discount_price": 49,
     "category": "Home & Garden"
   },
   {
-    "img": "https://example.com/image8.jpg",
+    "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product H",
     "original_price": 80,
     "discount_price": 64,
     "category": "Electronics"
   },
   {
-    "img": "https://example.com/image9.jpg",
+    "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product I",
     "original_price": 55,
     "discount_price": 44,
     "category": "Clothing"
   },
   {
-    "img": "https://example.com/image10.jpg",
+    "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product J",
     "original_price": 65,
     "discount_price": 54,
