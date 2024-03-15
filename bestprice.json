@@ -1,70 +1,90 @@
 [
   {
+    "id": 1,
     "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product A",
+    "days": 30,
     "original_price": 50,
     "discount_price": 39,
     "category": "Electronics"
   },
   {
+    "id": 2,
     "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product B",
+    "days": 30,
     "original_price": 30,
     "discount_price": 24,
     "category": "Clothing"
   },
   {
+    "id": 3,
     "img": "https://i.ibb.co/MRjk9S0/banglalink-new.jpg",
     "title": "Product C",
+    "days": 30,
     "original_price": 70,
     "discount_price": 59,
     "category": "Home & Garden"
   },
   {
+    "id": 4,
     "img": "https://i.ibb.co/RSxMSSv/grameenphone-bangladesh.webp",
     "title": "Product D",
+    "days": 30,
     "original_price": 90,
     "discount_price": 74,
     "category": "Electronics"
   },
   {
+    "id": 5,
     "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product E",
+    "days": 30,
     "original_price": 120,
     "discount_price": 99,
     "category": "Electronics"
   },
   {
+    "id": 6,
     "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product F",
+    "days": 30,
     "original_price": 40,
     "discount_price": 29,
     "category": "Clothing"
   },
   {
+    "id": 7,
     "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product G",
+    "days": 30,
     "original_price": 60,
     "discount_price": 49,
     "category": "Home & Garden"
   },
   {
+    "id": 8,
     "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product H",
+    "days": 30,
     "original_price": 80,
     "discount_price": 64,
     "category": "Electronics"
   },
   {
+    "id": 9,
     "img": "https://i.ibb.co/Ws0b4F9/robi.jpg",
     "title": "Product I",
+    "days": 30,
     "original_price": 55,
     "discount_price": 44,
     "category": "Clothing"
   },
   {
+    "id": 10,
     "img": "https://i.ibb.co/JzbLYTN/airtel.png",
     "title": "Product J",
+    "days": 30,
     "original_price": 65,
     "discount_price": 54,
     "category": "Home & Garden"
